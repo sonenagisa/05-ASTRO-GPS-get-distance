@@ -1,0 +1,10 @@
+BUILD
+.mbed
+compile_commands.json
+.clangd
+.cache
+mbed
+HeptaXbee
+HeptaBattery
+Hepta6axis
+HeptaTemp
